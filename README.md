@@ -139,7 +139,7 @@ Refined Prompt:
 
 Write a business plan for a startup coffee shop. Structure it in the following order: Executive Summary, Market Analysis, Marketing Strategy, Operations Plan, and Financial Projections.
 
-20. Task Ambiguity and Clarity
+# 20. Task Ambiguity and Clarity
 
 Original: “Create a website.”
 Refined Prompt:
