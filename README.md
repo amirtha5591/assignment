@@ -1,4 +1,4 @@
-# 1. Precision in Language
+1. Precision in Language
 
 Original: “Write a poem.”
 Refined Prompt:
